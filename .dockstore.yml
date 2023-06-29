@@ -1,4 +1,4 @@
 version: 1.2 
 workflows:
   -subclass: WDL
-  primary description: ./wdl-101-bam.wdl
+  primary description: /wdl-101-bam.wdl
